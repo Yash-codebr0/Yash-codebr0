@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Yash-codebr0
 - 👀 I’m interested in ai building and making money
-- 🌱 I’m currently learning pytorch
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning generative ai
 - 📫 How to reach me yk981981@gmail.com
 
 <!---
